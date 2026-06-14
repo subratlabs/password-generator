@@ -1,6 +1,10 @@
 # Password Generator
 
-A Python GUI application that generates strong and secure random passwords using Tkinter.
+## Screenshot
+
+![Password Generator](password_generator.jpg)
+
+A Python GUI application that generates strong and secure random passwords.
 
 ## Features
 
