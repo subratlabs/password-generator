@@ -1,24 +1,28 @@
 # Password Generator
 
-A Python application that generates strong and secure random passwords.
+A Python GUI application that generates strong and secure random passwords using Tkinter.
 
 ## Features
 
-* Generate random passwords
-* Custom password length
-* Strong and secure password generation
-* Easy to use
+* User-friendly graphical interface
+* Custom password length selection
+* Generates strong random passwords
+* Copy password to clipboard with one click
+* Fast and easy to use
 
 ## Technologies Used
 
 * Python
+* Tkinter
+* Random Module
 
 ## How to Run
 
 1. Install Python.
 2. Run the Python file.
 3. Enter the desired password length.
-4. Generate a secure password.
+4. Click "Generate Password".
+5. Copy the generated password using the "Copy Password" button.
 
 ## Author
 
