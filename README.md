@@ -2,7 +2,7 @@
 
 ## Screenshot
 
-![Password Generator](password_generator.jpg)
+![Password Generator](Password_generator.jpg)
 
 A Python GUI application that generates strong and secure random passwords.
 
